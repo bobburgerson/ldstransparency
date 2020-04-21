@@ -14,12 +14,20 @@ This not an audit or review of the church's financial information, and should no
 - Identify structures or schemes that obsfucate the disclosure of financial information.
 
 # Contributing
-Feel free to contribute documents or provide leads.  This is a new project so I am sure it will evolve over time.
+Please request access to become a contributor, and detail how you will be a useful to this project.  
 ## Discussions
-The purpose of this project is to be objective and simply state facts.  Please follow these rules to keep things civil and on task or face removal from the project:
+Please follow these rules to keep things civil and on task or face removal from the project:
 
-- Do not to debate theological or spiritual or personal matters.  
-- 
+- Do not debate theological or spiritual or personal matters.  
+- Do not disclose private or confidential information.
+- Do not disclose information about minors.
+- Do not promote or incite illegal actions - these will be reported to the appropriate authorites.
+- Zero tolerance for threats or hate speach against any individual or group.
+- When referring to any individual, do not speculate their personal intentions.  Potential motivations can be discussed but it must be supported by evidence, and must not succumb to logical fallacies.
+- Use professional language.
+- Be courteous to other users.
+
+
 ## Information sources
 The quality of the information is critcal to this project.  Garbage in is garbage out.  The following will be considered when merging the information into this project:
 
@@ -41,7 +49,7 @@ The quality of the information is critcal to this project.  Garbage in is garbag
 - Publicly available property registry data.
 - Publicly available financial statements of organizations or companies that have significant business with the church or related entities.
 - News reports from credible journalists.
-- 
+
 
 ## A note about privacy
 Please do not post confidential information.  Use only publicly available and verifiable sources. Public information about public figures and leaders is OK, however private and confidential information about them is NOT OK.
